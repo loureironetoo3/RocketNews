@@ -14,3 +14,4 @@ Design Figma: https://www.figma.com/file/OpvzKMckXPaiWfbJhcbMP1/DD-RocketNews-Co
 
 Prévia Projeto:
 
+![00001](https://user-images.githubusercontent.com/95112994/189926170-763defd1-4881-43f1-a34f-11bb27a43d65.png)
